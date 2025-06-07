@@ -1,2 +1,2 @@
-# suprise
+# surprise
 Birthday Surprise Project
